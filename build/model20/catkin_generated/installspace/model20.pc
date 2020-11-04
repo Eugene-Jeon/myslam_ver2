@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/install
+
+Name: model20
+Description: Description of model20
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

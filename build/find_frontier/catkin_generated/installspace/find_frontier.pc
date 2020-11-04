@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/install
+
+Name: find_frontier
+Description: Description of find_frontier
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/install
+
+Name: line_tracing
+Description: Description of line_tracing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

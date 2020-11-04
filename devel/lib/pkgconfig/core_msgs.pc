@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/devel
+
+Name: core_msgs
+Description: Description of core_msgs
+Version: 0.0.0
+Cflags: -I/home/jyj/myslam/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs sensor_msgs

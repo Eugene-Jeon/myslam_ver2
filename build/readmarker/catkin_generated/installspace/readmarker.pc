@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/install
+
+Name: readmarker
+Description: Description of readmarker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lreadmarker
+Requires: std_msgs roscpp

@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/install
+
+Name: cnn_for_jetson
+Description: Description of cnn_for_jetson
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs sensor_msgs

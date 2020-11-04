@@ -1,0 +1,8 @@
+prefix=/home/jyj/myslam/install
+
+Name: junny_control
+Description: Description of junny_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
